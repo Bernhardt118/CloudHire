@@ -1,0 +1,11 @@
+.profile_image{
+    float: inline-end;
+    overflow: hidden;
+    width: 10rem;
+    height: 10rem;
+    margin: 1rem;
+    margin-left: 2rem;
+    display: round($number: 3);
+    border-radius: 3rem;
+    border: 5px solid $DarkGrey;
+   }

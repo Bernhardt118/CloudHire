@@ -1,0 +1,26 @@
+.buttons{
+    background-color: $buttonColor;
+    color : white;
+    margin: 2rem;
+    font-weight: bold;
+}
+
+.applybutton{
+    background-color: white;
+    color: rgb(201, 35, 35);
+    font-weight: bolder;
+    margin: 1rem;
+}
+
+.editbutton{
+    background-color: $DarkGrey;
+    color: rgb(71, 192, 1);
+    font-weight: bolder;
+    margin : 2rem;
+    margin-top: 0.5rem;
+    
+}
+
+.button:disabled{
+    opacity: 0.1;
+}

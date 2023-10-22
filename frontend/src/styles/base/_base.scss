@@ -1,0 +1,26 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-image: url(https://img.freepik.com/free-vector/blue-sky-with-white-clouds-background-cartoon-flat-style-design_302982-816.jpg?w=740);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: bottom;
+    background-blend-mode: lighten;
+    background-color: $background;
+    font-family:Helvetica, Arial, sans-serif;
+    font-size: 1.6rem;
+}
+
+button{
+    cursor : pointer;
+}
+
+button:disabled{
+    cursor: default;
+}
+
+
+

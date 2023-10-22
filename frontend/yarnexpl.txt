@@ -1,0 +1,7 @@
+Use yarn to add the independencies. 
+    yarn init
+    yarn add
+
+    htm requests
+     fetch library 
+     axios

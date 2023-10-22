@@ -1,0 +1,35 @@
+.header{
+    background-color: $LightGrey;
+    color: white;
+    margin-bottom: 2rem;
+    padding: 1rem 0;
+    border : 2rem;
+    //max-width: 30rem;
+    text-indent: 2rem;
+    text-align: center;
+
+    h1{
+        color: white;;
+        background-color: $DarkGrey;
+        margin: 0.5rem;
+        margin: 0 auto;
+    }
+
+    h2{
+        color: white;;
+        font-size: 2.2rem;
+        text-align: left;
+    }
+}
+
+.headerApply{
+    background-color: $LightGrey;
+    color: white;
+    text-indent: 2rem;
+    text-align: center;
+}
+
+.header__submain{
+    font-size: 3.2rem;
+    margin: 0;
+}

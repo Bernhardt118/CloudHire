@@ -1,0 +1,51 @@
+{
+  "name": "group_20",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@git.cs.sun.ac.za:Computer-Science/rw334/2022/project-1/group_20.git",
+  "author": "Pieter_Colesky <23584955@sun.ac.za>",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start",
+    "start-flask-api": "cd backend && flask run",
+    "serve": "live-server frontend/public/",
+    "build": "webpack --watch",
+    "dev-server": "webpack-dev-server"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "6.24.1",
+    "babel-core": "6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1",
+    "bootstrap": "^5.1.3",
+    "css-loader": "0.28.4",
+    "jquery": "^3.6.0",
+    "live-server": "^1.2.1",
+    "node": "^17.5.0",
+    "node-sass": "^7.0.1",
+    "normalize.css": "7.0.0",
+    "package.json": "^2.0.1",
+    "popper.js": "^1.16.1",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.2.0",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.6",
+    "react-router": "^6.2.2",
+    "react-router-dom": "^4.2.2",
+    "react-select": "^5.2.2",
+    "redux": "^4.1.2",
+    "sass-loader": "6.0.6",
+    "style-loader": "0.18.2",
+    "validator": "^13.7.0",
+    "webpack": "3.1.0",
+    "webpack-dev-server": "2.5.1"
+  },
+  "proxy": "http://localhost:5000",
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
+  }
+}
