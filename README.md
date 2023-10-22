@@ -77,6 +77,4 @@ HowTo:
 npm install package.json
 npm update -f
 ```
-# Report 
-[Report Document](https://docs.google.com/document/d/1Gee6pEIPsubg4f8aVSa1YUqsZWCVHhcDuhU2Pn-RTDc/edit)<br />
-[Report Video](https://youtu.be/ZPHpJic5A0U)
+
